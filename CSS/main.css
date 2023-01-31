@@ -55,7 +55,7 @@ nav #toggle, nav label
     display: none;
 }
 
-@media(max-width: 40.625em)
+@media(max-width: 30.625em)
 {
     nav .card
     {
